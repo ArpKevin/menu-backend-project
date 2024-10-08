@@ -1,0 +1,60 @@
+{
+    "menu": [
+      {
+        "seo": "felhasznalo",
+        "felirat": "Felhasználó",
+        "almenu": []
+      },
+      {
+        "seo": "hirek",
+        "felirat": "Hírek",
+        "almenu": [
+          {
+            "seo": "ujdonsagok",
+            "felirat": "Újdonságok"
+          },
+          {
+            "seo": "akciok",
+            "felirat": "Akciók"
+          }
+        ]
+      },
+      {
+        "seo": "kapcsolat",
+        "felirat": "Kapcsolat",
+        "almenu": [
+          {
+            "seo": "munkatarsak",
+            "felirat": "Munkatársak"
+          },
+          {
+            "seo": "kontakt",
+            "felirat": "Kontakt"
+          }
+        ]
+      },
+      {
+        "seo": "utmutato",
+        "felirat": "Útmutató",
+        "almenu": []
+      },
+      {
+        "seo": "termekek",
+        "felirat": "Termékek",
+        "almenu": [
+          {
+            "seo": "informatika",
+            "felirat": "Informatika"
+          },
+          {
+            "seo": "reklam",
+            "felirat": "Reklám"
+          },
+          {
+            "seo": "elelmiszer",
+            "felirat": "Élelmiszer"
+          }
+        ]
+      }
+    ]
+  }
